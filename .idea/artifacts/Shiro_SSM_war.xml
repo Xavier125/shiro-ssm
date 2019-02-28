@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Shiro_SSM:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="WefunBlog.war">
+      <element id="artifact" artifact-name="Shiro_SSM:war exploded" />
+    </root>
+  </artifact>
+</component>
